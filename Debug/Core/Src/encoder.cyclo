@@ -1,0 +1,3 @@
+../Core/Src/encoder.c:64:6:encoder_init	1
+../Core/Src/encoder.c:81:6:encoder_update	5
+../Core/Src/encoder.c:109:6:encoder_reset	1

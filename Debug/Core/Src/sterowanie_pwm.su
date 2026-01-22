@@ -1,0 +1,2 @@
+../Core/Src/sterowanie_pwm.c:20:6:Motor_Init	24	static
+../Core/Src/sterowanie_pwm.c:35:6:set_PWM	24	static
